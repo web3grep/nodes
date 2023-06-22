@@ -1,9 +1,9 @@
 # Taiko T3
 ## On web
 
- 1. [deposit TTKO](https://sepolia.etherscan.io/address/0x6375394335f34848b850114b66A49D6F47f2cdA8#writeProxyContract)
- 2. Sign up to [alchemy](https://www.alchemy.com/) and create new app on sepolia 
- 3. [Get sepolia ETH](https://sepoliafaucet.com/)
+ 1. Sign up to [alchemy](https://www.alchemy.com/) and create new app on sepolia 
+ 2. [Get sepolia ETH](https://sepoliafaucet.com/)
+ 3. [deposit TTKO](https://sepolia.etherscan.io/address/0x6375394335f34848b850114b66A49D6F47f2cdA8#writeProxyContract)
  4. Get VPS on:
  - [DigitalOcean](https://m.do.co/c/07d98f258feb) (200$ ref  trial credits)
  - [Hetzner](https://hetzner.cloud/?ref=4acuPUwi16aa) (€⁠20 ref  trial credits)
