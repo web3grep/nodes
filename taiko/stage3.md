@@ -41,7 +41,7 @@ cp .env.sample .env
 ```
 nano .env
 ```
-> DISABLE_P2P_SYNC=**true**
+> DISABLE_P2P_SYNC=**false**
 > 
 > L1_ENDPOINT_HTTP=**https link from alchemy**
 > 
